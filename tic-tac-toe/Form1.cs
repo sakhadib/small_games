@@ -15,6 +15,9 @@ namespace tic_tac_toe
         public Form1()
         {
             InitializeComponent();
+
+
+            // Thanks
         }
 
         private void label1_Click(object sender, EventArgs e)

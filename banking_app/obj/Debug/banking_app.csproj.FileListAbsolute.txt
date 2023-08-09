@@ -1,0 +1,13 @@
+D:\Repos\Mini_Games\banking_app\bin\Debug\banking_app.exe.config
+D:\Repos\Mini_Games\banking_app\bin\Debug\banking_app.exe
+D:\Repos\Mini_Games\banking_app\bin\Debug\banking_app.pdb
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.csproj.AssemblyReference.cache
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.dashboard.resources
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.Form1.resources
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.Properties.Resources.resources
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.signupForm.resources
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.csproj.GenerateResource.cache
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.csproj.CoreCompileInputs.cache
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.exe
+D:\Repos\Mini_Games\banking_app\obj\Debug\banking_app.pdb

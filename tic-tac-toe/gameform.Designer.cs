@@ -150,7 +150,7 @@
             this.move_lb.Cursor = System.Windows.Forms.Cursors.Hand;
             this.move_lb.Font = new System.Drawing.Font("Poppins", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.move_lb.ForeColor = System.Drawing.Color.Black;
-            this.move_lb.Location = new System.Drawing.Point(12, 67);
+            this.move_lb.Location = new System.Drawing.Point(12, 69);
             this.move_lb.Name = "move_lb";
             this.move_lb.Size = new System.Drawing.Size(88, 34);
             this.move_lb.TabIndex = 1;

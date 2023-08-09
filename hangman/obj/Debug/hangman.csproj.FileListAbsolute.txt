@@ -1,0 +1,11 @@
+D:\Repos\Mini_Games\hangman\bin\Debug\hangman.exe.config
+D:\Repos\Mini_Games\hangman\bin\Debug\hangman.exe
+D:\Repos\Mini_Games\hangman\bin\Debug\hangman.pdb
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.csproj.AssemblyReference.cache
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.Form1.resources
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.Properties.Resources.resources
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.csproj.GenerateResource.cache
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.exe
+D:\Repos\Mini_Games\hangman\obj\Debug\hangman.pdb

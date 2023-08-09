@@ -1,0 +1,8 @@
+D:\Repos\Mini_Games\NET checker\bin\Debug\NET checker.exe.config
+D:\Repos\Mini_Games\NET checker\bin\Debug\NET checker.exe
+D:\Repos\Mini_Games\NET checker\bin\Debug\NET checker.pdb
+D:\Repos\Mini_Games\NET checker\obj\Debug\NET checker.csproj.AssemblyReference.cache
+D:\Repos\Mini_Games\NET checker\obj\Debug\NET checker.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Mini_Games\NET checker\obj\Debug\NET checker.csproj.CoreCompileInputs.cache
+D:\Repos\Mini_Games\NET checker\obj\Debug\NET checker.exe
+D:\Repos\Mini_Games\NET checker\obj\Debug\NET checker.pdb
